@@ -3,18 +3,19 @@
 **Electrical Engineer by Day, Data Scientist by Night**
 
 :construction: **Working on:**
-- Safety Constrained Control of Systems with High-IBR Penetration
-- Robust Classification of Faults via PMU Data
+- Safety Constrained Control of IBRs
+- EMT Simulation of Converter-Dominated Power Systems
+- Energy Planning for SIDS
   
 🌱 **Learning:**
-- Modelling Electric Machines and Drives
-- Arc Flash Calculation and Simulation
+- EMT Simulation for GFM IBRs
 - PyPSA for Energy Planning
+- Electrisim for Industrial PSA
 
  :globe_with_meridians: **Looking to collaborate on:**
-- Augmented Synchronization
+- EMT Research
 - Safety Constrained Control
-- PSRC.jl - A library for open-source power system protection
+- Arc Flash Hazard Analysis & Mitigation Strategies
 
 :mortar_board: **Ask me about:**
 - Open Source Power System Analysis
