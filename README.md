@@ -5,7 +5,8 @@
 :construction: **Working on:**
 - Safety Constrained Control of IBRs
 - EMT Simulation of Converter-Dominated Power Systems
-- Energy Planning for SIDS
+- Unified Arc Flash Hazard Analysis Framework
+- Chance Constrained OPF for VPP WANs and Sparse Grids
   
 🌱 **Learning:**
 - EMT Simulation for GFM IBRs
