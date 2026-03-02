@@ -9,7 +9,7 @@
 - Chance Constrained OPF for VPP WANs and Sparse Grids
 - Robust Optimal Control for Industrial Plants
 
- :globe_with_meridians: **Looking to collaborate on:**
+ :globe_with_meridians: **Open to collaborate on:**
 - EMT Research
 - Safety Constrained Control
 - Arc Flash Hazard Analysis & Mitigation Strategies
