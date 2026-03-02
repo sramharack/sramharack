@@ -7,11 +7,13 @@
 - EMT Simulation of Converter-Dominated Power Systems
 - Unified Arc Flash Hazard Analysis Framework
 - Chance Constrained OPF for VPP WANs and Sparse Grids
+- Robust Optimal Control for Industrial Plants
   
 🌱 **Learning:**
 - EMT Simulation for GFM IBRs
 - PyPSA for Energy Planning
 - Electrisim for Industrial PSA
+- Robust, Optimal and Intelligent Control Methods
 
  :globe_with_meridians: **Looking to collaborate on:**
 - EMT Research
