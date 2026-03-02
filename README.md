@@ -8,12 +8,6 @@
 - Unified Arc Flash Hazard Analysis Framework
 - Chance Constrained OPF for VPP WANs and Sparse Grids
 - Robust Optimal Control for Industrial Plants
-  
-🌱 **Learning:**
-- EMT Simulation for GFM IBRs
-- PyPSA for Energy Planning
-- Electrisim for Industrial PSA
-- Robust, Optimal and Intelligent Control Methods
 
  :globe_with_meridians: **Looking to collaborate on:**
 - EMT Research
@@ -26,30 +20,4 @@
 
 📫 **Reach me at:**
 - Email: sramharack@ieee.org
-
-⚡ **Fun fact:**
-- Notioner
-- Loves sports: running, rowing and climbing
-- Favourite food is Callaloo
-
-#### Experience with:
-PSCAD, EMTP-RV, SKM Power Tools, MATLAB Simulink, HiGHS, PyPSA, QGIS, EasyPower
-
-#### Programming languages I work in
-- Julia
-- Python
-- MATLAB
-- C++
-- LaTeX
-
-R and C as well, but rarely.
-
-#### Research interests:
-- Inverter-based technologies
-- Open-source e-mobility
-- Load forecasting
-- Synthetic Grid Generation and Energy Planning
-- Distributed Energy Resource Planning
-- Grid Automation
-- Power System Protection and Control
 
