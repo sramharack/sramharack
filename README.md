@@ -1,6 +1,6 @@
 ### Shankar Ramharack
 
-**Power Systems Engineer**
+**Engineer by day, Academic by night**
 
 :construction: **Working on:**
 - Safety Constrained Control of IBRs
